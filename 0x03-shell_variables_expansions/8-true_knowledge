@@ -1,2 +1,3 @@
 #!/bin/bash
-ech $(($TRUEKNOWLEGDE+128))
+echo $(($TRUEKNOWLEGDE+128))
+
